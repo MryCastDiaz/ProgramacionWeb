@@ -1,0 +1,19 @@
+ul{
+		font-size: 18px;
+	margin: 0 auto;
+}
+ul.rollover li{
+	text-align: left;
+	float: left;
+	list-style: none;
+}
+	ul.rollover a{
+		display: block;
+		text-decoration: none;
+		padding: jpx 10px 3px 25px;
+		margin: 5px;
+	}
+	ul.rollover a:hover{
+		background:url(favicon.ico) 5px 5px no-repeat;
+	text-decoration: none;
+}
